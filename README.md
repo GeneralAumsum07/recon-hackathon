@@ -22,23 +22,25 @@ It aims to preserve and interpret modern digital-era language — bridging techn
 ---
 
 ## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
 ```bash
+
+1️⃣ Clone the repository
 git clone https://github.com/GeneralAumsum07/recon-hackathon.git
 cd recon-hackathon
-2️⃣ Create and activate a virtual environment
 
+2️⃣ Create and activate a virtual environment
 python3 -m venv venv
 source venv/bin/activate
-3️⃣ Install dependencies
 
+3️⃣ Install dependencies
 pip install -r requirements.txt
 4️⃣ Create a .env file and add your API keys
 
 GEMINI_API_KEY=your_gemini_api_key_here
 SEARCH_API_KEY=your_google_cse_key_here
 SEARCH_ENGINE_CX=your_search_engine_cx_here
+
+
 🧠 How to Give an Input
 Once the environment is set up, simply run the following command inside your virtual environment:
 
