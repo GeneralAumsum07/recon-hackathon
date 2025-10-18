@@ -1,0 +1,12 @@
+# Ignore environment and secrets
+venv/
+.env
+__pycache__/
+*.pyc
+*.log
+
+# Ignore reports
+recon_reports/
+
+# VS Code stuff
+.vscode/
