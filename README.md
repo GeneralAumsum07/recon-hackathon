@@ -34,8 +34,8 @@ source venv/bin/activate
 
 3️⃣ Install dependencies
 pip install -r requirements.txt
-4️⃣ Create a .env file and add your API keys
 
+4️⃣ Create a .env file and add your API keys
 GEMINI_API_KEY=your_gemini_api_key_here
 SEARCH_API_KEY=your_google_cse_key_here
 SEARCH_ENGINE_CX=your_search_engine_cx_here
@@ -99,4 +99,4 @@ drama, myspace, slang, social context
 
 🎬 **Watch the video demonstration:**
 # 📺 Demo video link:
-https://drive.google.com/file/d/1q8-JzNuOJlfg8H-tWBF0x3hvpYNdhK9k/view?usp=drive_link
+https://drive.google.com/file/d/1DBpXuUT9fxARGX5webZ9GjwFUtcq2qf2/view?usp=sharing
