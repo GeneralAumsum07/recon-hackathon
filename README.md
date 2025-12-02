@@ -3,7 +3,6 @@
 > Built for **Project Chronos: The AI Archaeologist**  
 > by **Rachit Samal**
 > ID: **SE25UCSE136**
-(All 4 of my teammates did nothing, I made it all by myself)
 
 ---
 
